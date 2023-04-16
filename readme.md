@@ -1,6 +1,6 @@
-# PHP POSTGRE LOGIN REGISTER EXAMPLE
+# PHP POSTGRE LOGIN REGISTER 
 
-aplikasi login & register sederhana menggunakan postgresql dan php native dibuat untuk abdul karim hidayat
+aplikasi login & register sederhana menggunakan postgresql dan php native
 
 ## LICENSE
 
